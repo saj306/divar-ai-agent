@@ -1,0 +1,5 @@
+# Core dependencies
+google-adk>=1.0.0
+requests>=2.32.3
+python-dotenv>=1.1.0
+scrapling>=0.2.99
